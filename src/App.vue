@@ -1,13 +1,13 @@
 <script setup>
 
-import ApiDemo from './views/ApiDemo.vue'
+import talis from './views/talis.vue';
 
 
 </script>
 
 <template>
 
-<ApiDemo></ApiDemo>
+<talis></talis>
 
 </template>
 
